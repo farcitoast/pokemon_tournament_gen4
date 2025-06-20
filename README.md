@@ -1,4 +1,4 @@
-Torneo fra amici Pokemon Gen 4 Doubles OU
+Torneo fra amici Pokemon Gen 4 Doubles OU.
 
 ### Regole generali
 - 6 pokemon per team.
