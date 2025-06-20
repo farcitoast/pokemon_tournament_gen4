@@ -1,6 +1,7 @@
 Torneo fra amici Pokemon Gen 4 Doubles OU
 
 ### Regole generali
+- 6 pokemon per team.
 - Il team deve essere valido per il formato "[Gen 4] Doubles OU" su Pokemon Showdown. Per vericare se il vostro team e' valido, utilizzare la funzione validate del Teambuilder di Showdown, selezionando il formato corretto.
 - **Species Clause**: Players cannot use two Pokémon with the same Pokédex number on the same team.
 - **Sleep Clause Mod**: Limit one foe put to sleep at a time.
