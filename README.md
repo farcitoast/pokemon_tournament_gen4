@@ -6,7 +6,7 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 - **Species Clause**: Players cannot use two Pokémon with the same Pokédex number on the same team.
 - **Sleep Clause Mod**: Limit one foe put to sleep at a time.
 - **OHKO Clause**: Players cannot use OHKO moves: **Fissure**, **Guillotine**, **Horn Drill**, and **Sheer Cold**.
-- 
+  
 ### Pokemon non ammessi
 - Arceus  
 - Darkrai  
