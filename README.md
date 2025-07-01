@@ -39,3 +39,9 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 ### Abilita' non ammesse
 - Sand Veil  
 - Snow Cloak
+
+### Formula torneo
+- 8 o 9 partecipanti
+Due fasi:
+- **Fase 1 (Round Robin)**: tutti fanno **una sola partita contro tutti**, si puo' cambiare team prima di ogni partita. Ogni partita vinta da' 1 punto. Il ranking alla fine di questa fase viene utilizzato per scegliere gli accoppiamenti nei playoffs. In caso di parita', si usano i risultati degli scontri diretti per stabilire il ranking finale. Nel caso in cui il criterio degli scontri diretti non sia applicabile (casi rari), verra' utilizzata l'altezza dei giocatori (piu' alto = prima nel ranking). **In caso fossimo 9 giocatori, l'ultimo classificato viene eliminato**.
+- **Fase 2 (Playoffs)**: girone classico con quarti, semifinali e finale. Accoppiamenti basati sul ranking finale della fase precedente. **Ogni set al meglio delle 3**, regole sui team ancora da definire nel dettaglio.
