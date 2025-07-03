@@ -48,12 +48,12 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 ### Risultati
 |              |     Chri      |      Cla      |     Davide    |     Ferra     |    Giulio     |    Masche     |   Riccardo    |     Ric F     |
 |--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **Chri**     | :no_entry_sign: | :point_left:   | :point_up:   | :point_left:   | :point_up:   | :point_left:   | :point_left:   | :point_left:   |
+| **Chri**     | :no_entry_sign: | :point_left:   | :point_up:   | :point_left:   | :point_up:   | :point_left:   |     |    |
 | **Cla**      | :point_up:     | :no_entry_sign: | :point_up:     | :point_up:     | :point_left:   | :point_up:     | :point_left:   | :point_up:   |
 | **Davide**   | :point_left:     | :point_left:   | :no_entry_sign:| :point_up:   | :point_left:   | :point_left:   | :point_up:   | :point_left:   |
 | **Ferra**    | :point_up:     | :point_left:   | :point_left:     | :no_entry_sign:| :point_left:     | :point_left:   | :point_left:   | :point_up:   |
 | **Giulio**   | :point_left:     | :point_up:     | :point_up:     | :point_up:   | :no_entry_sign:| :point_left:   | :point_left:   | :point_left:   |
 | **Masche**   | :point_up:     | :point_left:   | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:| :point_left:   | :point_left:   |
-| **Riccardo** | :point_up:     | :point_up:     | :point_left:     | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:| :point_left:   |
-| **Ric F**    | :point_up:     | :point_left:     | :point_up:     | :point_left:     | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:|
+| **Riccardo** |      | :point_up:     | :point_left:     | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:| :point_left:   |
+| **Ric F**    |      | :point_left:     | :point_up:     | :point_left:     | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:|
 
