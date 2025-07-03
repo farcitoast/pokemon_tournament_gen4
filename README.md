@@ -53,7 +53,7 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 | **Davide**   | :point_left:     | :point_left:   | :no_entry_sign:| :point_up:   | :point_left:   | :point_left:   | :point_up:   | :point_left:   |
 | **Ferra**    | :point_up:     | :point_left:   | :point_left:     | :no_entry_sign:| :point_left:     | :point_left:   | :point_left:   | :point_up:   |
 | **Giulio**   | :point_left:     | :point_left:     | :point_up:     | :point_up:   | :no_entry_sign:| :point_left:   | :point_left:   | :point_up:   |
-| **Masche**   |     |    |      |      |      |  |      |    |
+| **Masche**   |     |    |      |      |      | :no_entry_sign: |      |    |
 | **Riccardo** |   :point_up:   | :point_up:     | :point_left:     | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:| :point_left:   |
 | **Ric F**    |   :point_up:   | :point_left:     | :point_up:     | :point_left:     | :point_left:     | :point_up:     | :point_up:     | :no_entry_sign:|
 
