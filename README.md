@@ -48,14 +48,14 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 ### Risultati
 |              |     Chri      |      Cla      |     Davide    |     Ferra     |    Giulio     |    Masche     |   Riccardo    |     Ric F     |
 |--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **Chri**     | :no_entry_sign: | :point_left:   | :point_up:   | :point_left:   | :point_up:   |    |   :point_left:  |  :point_left:  |
-| **Cla**      | :point_up:     | :no_entry_sign: | :point_up:     | :point_up:     | :point_left:   |      | :point_left:   | :point_up:   |
-| **Davide**   | :point_left:     | :point_left:   | :no_entry_sign:| :point_up:   | :point_left:   |    | :point_up:   | :point_left:   |
-| **Ferra**    | :point_up:     | :point_left:   | :point_left:     | :no_entry_sign:| :point_left:     |    | :point_left:   | :point_up:   |
-| **Giulio**   | :point_left:     | :point_up:     | :point_up:     | :point_up:   | :no_entry_sign:|    | :point_left:   | :point_up:   |
+| **Chri**     | :no_entry_sign: | :arrow_backward:   | :point_up:   | :arrow_backward:   | :point_up:   |    |   :arrow_backward:  |  :arrow_backward:  |
+| **Cla**      | :point_up:     | :no_entry_sign: | :point_up:     | :point_up:     | :arrow_backward:   |      | :arrow_backward:   | :point_up:   |
+| **Davide**   | :arrow_backward:     | :arrow_backward:   | :no_entry_sign:| :point_up:   | :arrow_backward:   |    | :point_up:   | :arrow_backward:   |
+| **Ferra**    | :point_up:     | :arrow_backward:   | :arrow_backward:     | :no_entry_sign:| :arrow_backward:     |    | :arrow_backward:   | :point_up:   |
+| **Giulio**   | :arrow_backward:     | :point_up:     | :point_up:     | :point_up:   | :no_entry_sign:|    | :arrow_backward:   | :point_up:   |
 | **Masche**   |     |    |      |      |      | :no_entry_sign: |      |    |
-| **Riccardo** |   :point_up:   | :point_up:     | :point_left:     | :point_up:     | :point_up:     |     | :no_entry_sign:| :point_left:   |
-| **Ric F**    |   :point_up:   | :point_left:     | :point_up:     | :point_left:     | :point_left:     |     | :point_up:     | :no_entry_sign:|
+| **Riccardo** |   :point_up:   | :point_up:     | :arrow_backward:     | :point_up:     | :point_up:     |     | :no_entry_sign:| :arrow_backward:   |
+| **Ric F**    |   :point_up:   | :arrow_backward:     | :point_up:     | :arrow_backward:     | :arrow_backward:     |     | :point_up:     | :no_entry_sign:|
 
 
 | | Player     | Points |
