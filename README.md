@@ -46,16 +46,16 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 - **Fase 2 (Playoffs)**: girone classico con quarti, semifinali e finale. Accoppiamenti basati sul ranking finale della fase precedente. **Ogni set al meglio delle 3**. Regole sui team ancora da definire nel dettaglio, probabilmente un solo team a persona per tutti i playoffs, ma con fino a 9 pokemon (prima di ogni singola partita si scelgono i 6 da mettere in squadra).
 
 ### Risultati
-|              |     Chri      |      Cla      |     Davide    |     Ferra     |    Giulio     |    Masche     |   Riccardo    |     Ric F     |
-|--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **Chri**     | :no_entry_sign: | :arrow_left:   | :point_up:   | :arrow_left:   | :point_up:   |    |   :arrow_left:  |  :arrow_left:  |
-| **Cla**      | :point_up:     | :no_entry_sign: | :point_up:     | :point_up:     | :arrow_left:   |      | :arrow_left:   | :point_up:   |
-| **Davide**   | :arrow_left:     | :arrow_left:   | :no_entry_sign:| :point_up:   | :arrow_left:   |    | :point_up:   | :arrow_left:   |
-| **Ferra**    | :point_up:     | :arrow_left:   | :arrow_left:     | :no_entry_sign:| :arrow_left:     |    | :arrow_left:   | :point_up:   |
-| **Giulio**   | :arrow_left:     | :point_up:     | :point_up:     | :point_up:   | :no_entry_sign:|    | :arrow_left:   | :point_up:   |
-| **Masche**   |     |    |      |      |      | :no_entry_sign: |      |    |
-| **Riccardo** |   :point_up:   | :point_up:     | :arrow_left:     | :point_up:     | :point_up:     |     | :no_entry_sign:| :arrow_left:   |
-| **Ric F**    |   :point_up:   | :arrow_left:     | :point_up:     | :arrow_left:     | :arrow_left:     |     | :point_up:     | :no_entry_sign:|
+|              |     Chri      |      Cla       |    Davide     |     Ferra     |    Giulio     |    Masche     |   Riccardo    |    Ric F      |
+|--------------|:-------------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| **Chri**     | :no_entry_sign: | :arrow_left:   | :point_up:     | :arrow_left:   | :point_up:     |               | :arrow_left:   | :arrow_left:   |
+| **Cla**      | :point_up:     | :no_entry_sign:| :point_up:     | :point_up:     | :arrow_left:   |               | :arrow_left:   | :point_up:     |
+| **Davide**   | :arrow_left:   | :arrow_left:   | :no_entry_sign:| :point_up:     | :arrow_left:   |               | :point_up:     | :arrow_left:   |
+| **Ferra**    | :point_up:     | :arrow_left:   | :arrow_left:   | :no_entry_sign:| :arrow_left:   |               | :arrow_left:   | :point_up:     |
+| **Giulio**   | :arrow_left:   | :point_up:     | :point_up:     | :point_up:     | :no_entry_sign:|               | :arrow_left:   | :point_up:     |
+| **Masche**   |               |                |                |                |                | :no_entry_sign:|               |               |
+| **Riccardo** | :point_up:     | :point_up:     | :arrow_left:   | :point_up:     | :point_up:     |               | :no_entry_sign:| :arrow_left:   |
+| **Ric F**    | :point_up:     | :arrow_left:   | :point_up:     | :arrow_left:   | :arrow_left:   |               | :point_up:     | :no_entry_sign:|
 
 
 | | Player     | Points |
