@@ -57,3 +57,15 @@ Torneo fra amici Pokemon Gen 4 Doubles OU.
 | **Riccardo** |   :point_up:   | :point_up:     | :point_left:     | :point_up:     | :point_up:     |     | :no_entry_sign:| :point_left:   |
 | **Ric F**    |   :point_up:   | :point_left:     | :point_up:     | :point_left:     | :point_left:     |     | :point_up:     | :no_entry_sign:|
 
+
+| | Player     | Points |
+|-|------------|:------:|
+| | Chri       |   4    |
+| | Cla        |   2    |
+| | Davide     |   4    |
+| | Ferra      |   4    |
+| | Giulio     |   2    |
+| | Masche     |       |
+| | Riccardo   |   2    |
+| | Ric F      |   3    |
+
